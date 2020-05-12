@@ -9,5 +9,5 @@ public class GetApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GetApplication.class, args);
 	}
-
+//dddd
 }
